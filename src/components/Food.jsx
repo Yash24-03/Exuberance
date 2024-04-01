@@ -45,25 +45,25 @@ const Food = () => {
               onClick={() => filterType('Arts and Creativity')}
               className='m-1 border-orange-600 text-orange-600 hover:bg-orange-600 hover:text-white'
             >
-             Arts and Creativity
+             Art
             </button>
             <button
               onClick={() => filterType('Technology and Innovation')}
               className='m-1 border-orange-600 text-orange-600 hover:bg-orange-600 hover:text-white'
             >
-              Technology and Innovation
+              Tech
             </button>
             <button
               onClick={() => filterType('Physical Competitions')}
               className='m-1 border-orange-600 text-orange-600 hover:bg-orange-600 hover:text-white'
             >
-              Physical Competitions
+              Strength
             </button>
             <button
               onClick={() => filterType('Talent and Entertainment')}
               className='m-1 border-orange-600 text-orange-600 hover:bg-orange-600 hover:text-white'
             >
-              Talent and Entertainment
+              Entertainment
             </button>
           </div>
         </div>
